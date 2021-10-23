@@ -1,0 +1,55 @@
+## Interface: 80300
+## Author : Xetro
+## Title: Hilex
+## Notes: Assistant
+## Version: 0.5
+## SavedVariables: HilexSettings
+
+Libs\LibStub\LibStub.lua
+Libs\CallbackHandler-1.0\CallbackHandler-1.0.xml
+Libs\LibSharedMedia-3.0\lib.xml
+Libs\AceAddon-3.0\AceAddon-3.0.xml
+Libs\AceGUI-3.0\AceGUI-3.0.xml
+Libs\AceConfig-3.0\AceConfig-3.0.xml
+Libs\AceConfig-3.0\AceConfigDialog-3.0\AceConfigDialog-3.0.xml
+Libs\AceConfig-3.0\AceConfigCmd-3.0\AceConfigCmd-3.0.xml
+Libs\AceDB-3.0\AceDB-3.0.xml
+Libs\AceDBOptions-3.0\AceDBOptions-3.0.xml
+Libs\AceConsole-3.0\AceConsole-3.0.xml
+Libs\!LibDraw\LibDraw.lua
+Libs\LibBossIDs-1.0\LibBossIDs-1.0.lua
+Libs\AceSerializer-3.0\AceSerializer-3.0.lua
+Libs\LibRangeCheck-2.0\LibRangeCheck-2.0.lua
+
+Core.lua
+Classes\Classes.lua
+System\Settings.lua
+Handler\Event.lua
+Handler\Command.lua
+System\ObjectManager.lua
+
+Classes\Unit\Unit.lua
+Classes\Unit\Position.lua
+Classes\Spell\Spell.lua
+Classes\Spell\Cast.lua
+Classes\Spell\LastCast.lua
+Classes\LocalPlayer\LocalPlayer.lua
+Classes\LocalPlayer\Info.lua
+Classes\LocalPlayer\Enemy.lua
+Classes\Aura\Aura.lua
+Classes\Aura\Cache.lua
+Classes\GameObject\GameObject.lua
+Classes\Item\Item.lua
+
+Helpers\Navigation.lua
+Helpers\Master.lua
+Helpers\Slave.lua
+
+Enums\Items.lua
+Enums\Mount.lua
+Enums\Food.lua
+Enums\Drink.lua
+Enums\Misc.lua
+Enums\Gatherables.lua
+
+UI\Main.lua
